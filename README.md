@@ -1,7 +1,7 @@
 # mysql-16gb-config
 
 ## C'est quoi ?
-Un exemple de configuration pour un serveur PHP7.3 + MySQL ayant 16gb de RAM à se répartir pour faire tourner des sites exécutant beaucoup de requêtes SQL assez lourdes.
+Un exemple de configuration pour un serveur PHP7.3 + MySQL ayant 16gb de RAM à se répartir pour faire tourner des sites exécutant beaucoup de requêtes SQL assez lourdes. Attention cependant, si vous faites tourner d'autres paquets tels qu'un serveur mail, il est possible que vous atteignez la limite de RAM de votre serveur.
 
 
 ## Est-ce qu'il faut configurer autre chose ?
